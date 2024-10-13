@@ -1,0 +1,20 @@
+body {
+    background-color: #f0e5ff; /* Pastel purple */
+    color: #2a2a2a;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    color: #a67c9a; /* Pastel pink */
+}
+input, button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffe5d9; /* Light pastel color */
+}
+button {
+    cursor: pointer;
+}
